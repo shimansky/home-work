@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6a1ad6a6-5ee2-47ad-8016-c0b705ec311f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,26 +23,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="7" lean-forward="true" selection-end-line="20" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="93" column="1" lean-forward="true" selection-end-line="94" />
+            <state relative-caret-position="399">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <marker date="1555605431119" expanded="true" signature="670:798" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/general.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -52,8 +56,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -75,6 +79,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/general.css" />
+        <option value="$PROJECT_DIR$/second.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/main.js" />
       </list>
@@ -92,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,6 +112,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,7 +122,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -169,7 +174,11 @@
       <workItem from="1555475433730" duration="491000" />
       <workItem from="1555498660063" duration="475000" />
       <workItem from="1555529069274" duration="609000" />
-      <workItem from="1555529862910" duration="8189000" />
+      <workItem from="1555529862910" duration="8653000" />
+      <workItem from="1555541023833" duration="888000" />
+      <workItem from="1555542261390" duration="41000" />
+      <workItem from="1555542466455" duration="27000" />
+      <workItem from="1555603693036" duration="3217000" />
     </task>
     <task id="LOCAL-00001" summary="added new js function">
       <created>1555264907110</created>
@@ -178,17 +187,23 @@
       <option name="project" value="LOCAL" />
       <updated>1555264907110</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&#10;fourth homework: cycles and conditions">
+      <created>1555539067469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555539067469</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41545000" />
+    <option name="totallyTimeSpent" value="46182000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1288" height="732" extended-state="7" />
-    <editor active="true" />
+    <frame x="-4" y="-4" width="1288" height="732" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.24225576" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.24225576" />
       <window_info id="Structure" order="1" sideWeight="0.501634" side_tool="true" weight="0.24244833" />
       <window_info id="Favorites" order="2" sideWeight="0.501634" side_tool="true" weight="0.24244833" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -199,7 +214,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49960285" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49960285" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039715" side_tool="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32843137" />
@@ -253,7 +268,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added new js function" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new js function" />
+    <MESSAGE value="&#10;fourth homework: cycles and conditions" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;fourth homework: cycles and conditions" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
@@ -263,24 +279,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/general.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="93" column="1" lean-forward="true" selection-end-line="94" />
+        <state relative-caret-position="189">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="7" lean-forward="true" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="399">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/general.css">
+    <entry file="file://$PROJECT_DIR$/second.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="42">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1555605431119" expanded="true" signature="670:798" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
